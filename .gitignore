@@ -1,0 +1,67 @@
+# Directories #
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+[Pp]roperties/
+[Tt]est[Rr]esults/
+
+# Files #
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.cache
+*.csproj.user
+*.vbproj.user
+*.swp
+*.swo
+*.swl
+*ReSharper*
+*resharper*
+*.idea*
+*.vs/
+*.vscode/
+*.nupkg
+*.nuspec
+
+# Build results #
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]uild[Ll]og.*
+*.[Oo]bj
+*.[Pp]db
+*.[Tt]log
+*.[Dd][Bb]
+*.opendb
+
+# NuGet #
+packages/
+*.nupkg
+*.snupkg
+NuGet.Config
+
+# Tooling #
+.project/
+.project.lock.json
+.project.assets.json
+global.json
+*.pfx
+*.publishsettings
+*.psess
+*.vsp
+*.vspx
+*.trx
+*.pdb
+*.map
+
+# JetBrains Rider #
+.idea/
+
+# Visual Studio Code #
+.vscode/
